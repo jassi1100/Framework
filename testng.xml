@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" verbose="1">
+	<test name="Test">
+		<classes>
+			<class name="wm.wmcanada.testscripts.TestMyWMServices" />
+			<class name="wm.wmcanada.testscripts.TestOurServices" />
+			<class name="wm.wmcanada.testscripts.TestMypayment" />
+			<class name="wm.wmcanada.testscripts.TestCustomersupport" />
+			<class name="wm.wmcanada.testscripts.TestDropofflocation" />
+			<class name="wm.wmcanada.testscripts.TestHomePage" />
+			<class name="wm.wmcanada.testscripts.TestAboutUs" />
+			<class name="wm.wmcanada.testscripts.TestFooter" />
+			<class name="wm.wmcanada.testscripts.TestHeader" />
+			<class name="wm.wmcanada.testscripts.TestLogin"></class>
+			<class name="wm.wmcanada.testscripts.TestMYWMDashboard" />
+			<!-- <class name="wm.wmcanada.testscripts.TestLogin"/> <class name="wm.wmcanada.testscripts.TestSignUp"/> -->
+			<!-- <class name="wm.wmcanada.testscripts.TestAPI"/> -->
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
